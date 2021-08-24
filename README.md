@@ -1,4 +1,4 @@
-====
+
 You will have 72 hours to complete upon receiving this exercise. Should you have any questions, please contact tim.cull@urbanfootprint.com
 
 We expect that this exercise should take roughly two hours to complete.  If you find it is taking significantly longer, please get in touch because there may have been some miscommunication or misunderstanding that we'd like to rectify!
@@ -26,7 +26,6 @@ In evaluating your exercise, we don't so much care about how character-perfect, 
 
 To that end, while there may be big libraries you can import and use to solve the problem in one line, we encourage you to take a lighter approach that more clearly demonstrates these skills.  We have purposely constructed an exercise that should not require a lot of dependencies or domain knowledge specifically so that we can focus on your ability to structure professional code.
 
-===
 
 DOCUMENTATION
 
