@@ -22,7 +22,7 @@ Please include a README that gives instructions for setup required to run your c
 
 EVALUATION
 
-In evaluating your exercise, we don't so much care about how character-perfect, precisely you match the expected_output.csv.  What we really care about is that your solution is correct and also demonstrates your overall skill and professionalism in structuring a project, handling (and testing) edge cases, designing the in-memory object model, writing clear and easy to undestand code, writing defensive code, and writing well tested code.
+In evaluating your exercise, we don't so much care about how character-perfect, precisely you match the expected_output.csv.  What we really care about is that your solution is correct and also demonstrates your overall skill and professionalism in structuring a project, handling (and testing) edge cases, designing the in-memory object model, writing clear and easy to understand code, writing defensive code, and writing well tested code.
 
 To that end, while there may be big libraries you can import and use to solve the problem in one line, we encourage you to take a lighter approach that more clearly demonstrates these skills.  We have purposely constructed an exercise that should not require a lot of dependencies or domain knowledge specifically so that we can focus on your ability to structure professional code.
 
