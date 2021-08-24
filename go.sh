@@ -1,7 +1,7 @@
 #!/bin/sh
 
-export PYTHON_PATH=.:./src
+export PYTHON_PATH=./src
 
 echo "running"
-python ./main.py
+python ./src/main.py
 echo "done"
