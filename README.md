@@ -18,7 +18,10 @@ Specifically...
 4) Write tests to validate the core parsing logic and a few states that represent edge cases. Use Python’s ‘unittest’ module, and the ‘mock’ module if desired.
 5) Make sure everything runs simply by running the already included go.sh as the main entrypoint.
 
-Please include a README that gives instructions for setup required to run your code (if any)
+Please include a README that gives instructions for setup required to run your code (if any).
+
+If you fork our repo, please make sure to make it private so other candidates can't see your solution!
+
 
 EVALUATION
 
