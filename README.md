@@ -3,6 +3,8 @@ You will have 72 hours to complete upon receiving this exercise. Should you have
 
 We expect that this exercise should take roughly two hours to complete.  If you find it is taking significantly longer, please get in touch because there may have been some miscommunication or misunderstanding that we'd like to rectify!
 
+To submit your exercise, simply zip up your project and email it to the recruiter.
+
 INSTRUCTIONS
 
 The task is to scrape a web page, package the data on it into an intermediate, in-memory data structure, and then output that data structure into a simple text format for easy verification and visualization of the results.
