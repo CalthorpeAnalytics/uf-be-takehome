@@ -1,52 +1,449 @@
-State,In Person Deadline,By Mail Deadline,Online Deadline,Election Day Registration,Online Link
-Alabama,Oct 22,Oct 22,Oct 22,N,https://web.archive.org/web/20190209174006/https://www.alabamavotes.gov/olvr/default.aspx
-Alaska,Oct 7,Oct 7,Oct 7,N,https://web.archive.org/web/20190209174006/https://voterregistration.alaska.gov/
-Arizona,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://servicearizona.com/webapp/evoter/selectLanguage
-Arkansas,Oct 9,Oct 9,N,N,
-California,Nov 6,Oct 29,Oct 22,Y,https://web.archive.org/web/20190209174006/http://registertovote.ca.gov/
-Colorado,Nov 6,Oct 29,Oct 29,Y,https://web.archive.org/web/20190209174006/https://www.sos.state.co.us/voter-classic/secuVerifyExist.do
-Connecticut,Oct 30,Oct 30,Oct 30,Y,https://web.archive.org/web/20190209174006/https://voterregistration.ct.gov/OLVR/welcome.do
-Delaware,Oct 13,Oct 13,Oct 13,N,https://web.archive.org/web/20190209174006/https://ivote.de.gov/voterlogin.aspx
-District of Columbia,Nov 6,Oct 16,Oct 16,Y,https://web.archive.org/web/20190209174006/https://www.vote4dc.com/Voter/Home/SearchMain
-Florida,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://registertovoteflorida.gov/en/Registration/Index
-Georgia,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://registertovote.sos.ga.gov/GAOLVR/#no-back-button
-Hawaii,Oct 9,Oct 9,Oct 9,Y,https://web.archive.org/web/20190209174006/https://olvr.hawaii.gov/%28S%28hj2uglexu4a4fznh5odixv5u%29%29/Default.aspx
-Idaho,Oct 12,Oct 12,Oct 12,Y,https://web.archive.org/web/20190209174006/https://apps.idahovotes.gov/OnlineVoterRegistration
-Illinois,Nov 6,Oct 9,Oct 21,Y,https://web.archive.org/web/20190209174006/https://ova.elections.il.gov/RegistrationClosed.aspx
-Indiana,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://indianavoters.in.gov/PublicSite/OVR/Introduction.aspx?Link=Polling
-Iowa,Oct 27,Oct 27,Oct 27,Y,https://web.archive.org/web/20190209174006/https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration
-Kansas,Oct 16,Oct 16,Oct 16,N,https://web.archive.org/web/20190209174006/https://www.kdor.org/voterregistration/Default.aspx
-Kentucky,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://vrsws.sos.ky.gov/ovrweb/
-Louisiana,Oct 9,Oct 9,Oct 16,N,https://web.archive.org/web/20190209174006/https://onlinevoterregistration.sos.la.gov/?Referrer=http%3A%2F%2Fwww.sos.la.gov%2FElectionsAndVoting%2FRegisterToVote%2FPages%2Fdefault.aspx
-Maine,Nov 6,Oct 16,N,Y,
-Maryland,Nov 1,Oct 16,Oct 16,Y,https://web.archive.org/web/20190209174006/https://voterservices.elections.state.md.us/OnlineVoterRegistration/VoterType
-Massachusetts,Oct 17,Oct 17,Oct 17,N,https://web.archive.org/web/20190209174006/https://www.sec.state.ma.us/ovr/
-Michigan,Oct 9,Oct 9,N,N,
-Minnesota,Nov 6,Oct 16,Oct 16,Y,https://web.archive.org/web/20190209174006/https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationStep1.aspx
-Mississippi,Oct 8,Oct 9,N,N,
-Missouri,Oct 10,Oct 10,Oct 10,N,https://web.archive.org/web/20190209174006/http://s1.sos.mo.gov/elections/goVoteMissouri/register.aspx
-Montana,Nov 6,Oct 9,N,Y,
-Nebraska,Oct 26,Oct 19,Oct 19,N,https://web.archive.org/web/20190209174006/https://www.nebraska.gov/apps-sos-voter-registration/
-Nevada,Oct 16,Oct 9,Oct 18,N,https://web.archive.org/web/20190209174006/https://nvsos.gov/sosvoterservices/Registration/step1.aspx
-New Hampshire,Nov 6,Oct 24,N,Y,
-New Jersey,Oct 16,Oct 16,N,N,
-New Mexico,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://portal.sos.state.nm.us/OVR/%28S%28dyulgu4zbqvffujw1uvhzm11%29%29/WebPages/InstructionsStep1.aspx
-New York,Oct 12,Oct 12,Oct 12,N,https://web.archive.org/web/20190209174006/http://dmv.ny.gov/more-info/electronic-voter-registration-application
-North Carolina,Nov 3,Oct 12,N,N,
-North Dakota,N,N,N,N,
-Ohio,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://olvr.sos.state.oh.us/
-Oklahoma,Oct 12,Oct 12,Oct 12,N,https://web.archive.org/web/20190209174006/https://www.ok.gov/elections/Online_Voter_Registration.html
-Oregon,Oct 16,Oct 16,Oct 16,N,https://web.archive.org/web/20190209174006/https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS
-Pennsylvania,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://www.pavoterservices.state.pa.us/Pages/VoterRegistrationApplication.aspx
-Rhode Island,Oct 7,Oct 7,Oct 7,N,https://web.archive.org/web/20190209174006/https://vote.sos.ri.gov/ovr
-South Carolina,Oct 17,Oct 17,Oct 17,N,https://web.archive.org/web/20190209174006/https://info.scvotes.sc.gov/eng/ovr/start.aspx
-South Dakota,Oct 22,Oct 22,N,N,
-Tennessee,Oct 9,Oct 9,Oct 9,N,https://web.archive.org/web/20190209174006/https://ovr.govote.tn.gov/
-Texas,Oct 9,Oct 9,N,N,
-Utah,Oct 30,Oct 9,Oct 30,N,https://web.archive.org/web/20190209174006/https://secure.utah.gov/voterreg/index.html
-Vermont,Nov 6,Nov 6,Nov 6,Y,https://web.archive.org/web/20190209174006/https://olvr.sec.state.vt.us/
-Virginia,Oct 15,Oct 15,Oct 15,N,https://web.archive.org/web/20190209174006/https://www.vote.virginia.gov/
-Washington,Oct 29,Oct 8,Oct 8,N,https://web.archive.org/web/20190209174006/http://www.sos.wa.gov/elections/myvote/olvr.html
-West Virginia,Oct 16,Oct 16,Oct 16,N,https://web.archive.org/web/20190209174006/https://ovr.sos.wv.gov/Register#Qualifications
-Wisconsin,Nov 6,Oct 17,Oct 17,Y,https://web.archive.org/web/20190209174006/https://myvote.wi.gov/en-us/RegisterToVote
-Wyoming,Nov 6,Oct 22,N,Y,
+LOC_CODE_HIGH_SCHOOL,LOC_CODE_MIDDLE_SCHOOL
+K036,K409
+K053,K358
+K071,K318
+K077,K266
+K122,K334
+K141,K704
+K168,K554
+K265,K592
+K322,K330
+K337,K468
+K344,K303
+K348,K468
+K350,K592
+K368,K330
+K369,K447
+K370,K303
+K371,K821
+K373,K330
+K382,K543
+K393,K057
+K403,K554
+K404,K050
+K405,K240
+K408,K382
+K409,K036
+K410,K303
+K412,K596
+K419,K592
+K420,K171
+K423,K527
+K425,K381
+K429,K497
+K430,K113
+K439,K592
+K445,K227
+K448,K429
+K449,K582
+K454,K586
+K455,K035
+K462,K463
+K463,K462
+K464,K462
+K473,K582
+K474,K582
+K477,K582
+K478,K582
+K483,K527
+K485,K030
+K488,K577
+K489,K590
+K490,K104
+K493,K178
+K495,K014
+K497,K429
+K498,K731
+K499,K571
+K502,K328
+K504,K174
+K505,K121
+K507,K328
+K509,K527
+K510,K174
+K514,K697
+K519,K497
+K524,K353
+K525,K099
+K528,K353
+K530,K447
+K531,K533
+K533,K531
+K535,K811
+K537,K382
+K539,K382
+K540,K468
+K543,K382
+K544,K533
+K545,K393
+K546,K533
+K547,K353
+K548,K353
+K549,K554
+K552,K554
+K554,K291
+K555,K240
+K556,K393
+K558,K577
+K559,K468
+K561,K577
+K563,K285
+K566,K068
+K567,K068
+K569,K285
+K572,K468
+K575,K301
+K576,K068
+K578,K068
+K583,K171
+K586,K614
+K589,K598
+K590,K161
+K594,K137
+K595,K103
+K600,K353
+K605,K527
+K610,K126
+K615,K302
+K616,K596
+K620,K209
+K625,K334
+K635,K211
+K639,K171
+K643,K140
+K646,K155
+K647,K518
+K656,K447
+K659,K171
+K660,K292
+K670,K492
+K673,K211
+K684,K464
+K685,K071
+K690,K096
+K697,K323
+K698,K448
+K721,K468
+K728,K239
+K751,K334
+K753,K508
+K771,K225
+K811,K014
+M035,M408
+M047,M347
+M079,M007
+M138,M469
+M169,M114
+M226,M407
+M279,M415
+M283,M859
+M285,M469
+M288,M111
+M292,M332
+M294,M131
+M296,M111
+M298,M131
+M299,M859
+M300,M111
+M303,M111
+M304,M302
+M305,M131
+M307,M859
+M308,M131
+M313,M312
+M316,M896
+M353,M210
+M367,M286
+M369,M367
+M374,M442
+M394,M131
+M400,M111
+M401,X010
+M404,M243
+M407,M226
+M408,M035
+M409,M045
+M411,M413
+M412,M312
+M413,M347
+M414,M312
+M415,M860
+M416,M167
+M418,M896
+M419,M312
+M420,M226
+M425,M896
+M429,M442
+M435,M825
+M439,M442
+M440,M312
+M448,M184
+M449,M225
+M450,M355
+M458,M378
+M459,M225
+M460,M442
+M462,X229
+M463,X229
+M467,X229
+M468,X229
+M469,M138
+M470,M243
+M475,M289
+M479,M191
+M485,M859
+M489,M896
+M492,M859
+M494,M859
+M495,M381
+M499,M709
+M500,M347
+M501,M312
+M505,M054
+M507,M111
+M509,M378
+M519,M225
+M520,M126
+M529,M408
+M531,M408
+M539,M094
+M540,M161
+M541,M859
+M542,M111
+M543,M378
+M545,M378
+M550,M312
+M551,M896
+M552,M328
+M555,M013
+M565,M225
+M570,M442
+M580,M896
+M586,M301
+M600,M312
+M605,M312
+M610,M013
+M615,M501
+M620,M347
+M625,M111
+M630,M225
+M635,M224
+M650,M378
+M655,M114
+M670,M350
+M680,M610
+M685,M302
+M692,M302
+M696,M094
+M707,M896
+M709,M123
+M721,M501
+M751,M378
+M860,M415
+Q023,Q208
+Q177,Q216
+Q233,Q190
+Q248,Q283
+Q255,Q252
+Q256,Q043
+Q259,Q192
+Q260,Q282
+Q262,Q323
+Q263,Q189
+Q264,Q204
+Q265,Q283
+Q267,Q204
+Q272,Q283
+Q281,Q237
+Q283,Q355
+Q285,Q025
+Q296,Q061
+Q299,Q204
+Q323,Q262
+Q338,Q896
+Q350,Q896
+Q351,Q262
+Q400,Q072
+Q410,Q262
+Q415,Q074
+Q425,Q219
+Q430,Q216
+Q435,Q295
+Q440,Q157
+Q445,Q010
+Q450,Q126
+Q455,Q102
+Q460,Q189
+Q470,Q896
+Q475,Q137
+Q480,Q137
+Q485,Q009
+Q492,Q147
+Q494,Q147
+Q495,Q025
+Q496,Q147
+Q498,Q147
+Q501,Q706
+Q502,Q111
+Q505,Q896
+Q520,Q204
+Q525,Q219
+Q530,Q204
+Q550,Q157
+Q555,Q204
+Q560,Q204
+Q566,Q266
+Q575,Q204
+Q580,Q706
+Q585,Q073
+Q600,Q125
+Q610,Q125
+Q620,Q896
+Q650,Q210
+Q670,Q250
+Q680,Q255
+Q687,Q896
+Q690,Q008
+Q705,Q145
+Q721,Q061
+Q744,Q061
+Q752,Q226
+Q792,Q164
+Q811,Q067
+Q896,Q217
+Q993,Q172
+R025,R034
+R037,R024
+R047,R063
+R080,R027
+R440,R002
+R445,R051
+R450,R061
+R455,R007
+R460,R080
+R470,R049
+R600,R061
+R605,R002
+R721,R049
+X012,X194
+X141,X037
+X168,X203
+X176,X181
+X188,X316
+X213,X368
+X221,X223
+X225,X391
+X227,X413
+X231,X004
+X237,X244
+X239,X413
+X241,X703
+X243,X254
+X245,X267
+X248,X245
+X249,X181
+X250,X517
+X251,X098
+X252,X241
+X253,X272
+X260,X517
+X262,X098
+X263,X241
+X265,X272
+X267,X245
+X268,X342
+X270,X289
+X271,X098
+X275,X272
+X276,X004
+X278,X245
+X282,X367
+X284,X368
+X288,X089
+X290,X272
+X293,X721
+X295,X376
+X297,X267
+X299,X089
+X305,X376
+X312,X376
+X319,X118
+X321,X162
+X329,X413
+X332,X302
+X334,X343
+X342,X244
+X347,X244
+X365,X232
+X368,X037
+X374,X243
+X377,X376
+X379,X298
+X381,X029
+X403,X267
+X404,X267
+X405,X721
+X412,X413
+X413,X717
+X414,X413
+X415,X089
+X418,X083
+X427,X500
+X433,X342
+X434,X243
+X437,X243
+X438,X243
+X439,X243
+X440,X095
+X442,X342
+X445,X095
+X446,X185
+X452,X376
+X455,X176
+X473,X162
+X475,X368
+X477,X368
+X495,X162
+X500,X551
+X505,X324
+X509,X089
+X511,X098
+X513,X270
+X514,X270
+X517,X219
+X519,X424
+X520,X162
+X521,X242
+X522,X029
+X524,X188
+X525,X339
+X527,X151
+X530,X302
+X537,X424
+X540,X376
+X541,X089
+X542,X089
+X543,X267
+X544,X272
+X545,X272
+X546,X368
+X547,X151
+X548,X151
+X549,X342
+X550,X242
+X551,X168
+X600,X029
+X650,X298
+X655,X162
+X660,X188
+X670,X500
+X682,X286
+X684,X383
+X690,X242
+X692,X242
+X696,X342
+X703,X241
+X721,X012
+X723,X462
+X754,X162
+X811,X286
