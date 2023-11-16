@@ -7,7 +7,7 @@ To submit your exercise, simply zip up your project and email it to the recruite
 
 INSTRUCTIONS
 
-The task is to load a proivded GeoJSON dataset; package the data in it into an intermediate, in-memory data structure; perform some analysis on the dataset; and then output that data structure into a simple text format for easy verification and visualization of the results.
+The task is to load a provided GeoJSON dataset; package the data in it into an intermediate, in-memory data structure; perform some analysis on the dataset; and then output that data structure into a simple text format for easy verification and visualization of the results.
 
 Specifically...
 
