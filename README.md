@@ -23,6 +23,8 @@ The dataset represents point locations and attributes of public schools in New Y
 
 5) Make sure everything runs simply by running the already included go.sh as the main entrypoint.
 
+Note: `geopandas` has its own learning curve and this exercise isn't meant to test any existing knowledge of it. If you're using `geopandas` in your solution, you'll likely find the `distance` method helpful: https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoSeries.distance.html.
+
 Please include a README that gives instructions for setup required to run your code (if any).
 
 If you fork our repo, please make sure to make it private so other candidates can't see your solution!
